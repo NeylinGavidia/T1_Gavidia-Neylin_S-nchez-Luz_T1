@@ -59,12 +59,12 @@ namespace Ejercicio1
             Console.WriteLine("Billetes de 50 : " + b50);
             Console.WriteLine("Billetes de 20 : " + b20);
             Console.WriteLine("Billetes de 10 : " + b10);
-            Console.WriteLine("Monedas de 5  : " + m5);
-            Console.WriteLine("Monedas de 2  : " + m2);
-            Console.WriteLine("Monedas de 1  : " + m1);
-            Console.WriteLine("Monedas de 0.5 : " + m05);
-            Console.WriteLine("Monedas de 0.2 : " + m02);
-            Console.WriteLine("Monedas de 0.1 : " + m01);
+            Console.WriteLine("Monedas de 5 soles : " + m5);
+            Console.WriteLine("Monedas de 2 soles : " + m2);
+            Console.WriteLine("Monedas de 1 sol: " + m1);
+            Console.WriteLine("Monedas de 50 céntimos : " + m05);
+            Console.WriteLine("Monedas de 20 céntimos : " + m02);
+            Console.WriteLine("Monedas de 10 céntimos : " + m01);
             Console.ReadKey();
         }
     }
